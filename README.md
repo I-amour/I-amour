@@ -1,7 +1,7 @@
-<h1>👋 Hi, I’m Ife</h1>
+<h1>👋 Hi, I’m Simi</h1>
 
 
-As a 17-year-old with a passion for programming websites and developing productivity apps, I'm committed to leveraging my skills and experience to help organizations achieve their goals. Despite my age, I'm confident in my ability to deliver top-quality work and am eager to prove myself as a valuable addition to any team.
+As a 18-year-old with a passion for programming websites and developing productivity apps, I'm committed to leveraging my skills and experience to help organizations achieve their goals. Despite my age, I'm confident in my ability to deliver top-quality work and am eager to prove myself as a valuable addition to any team.
 
 With experience developing apps for both Apple and Android, I have a deep understanding of the unique challenges and opportunities presented by different platforms. I'm always eager to learn and experiment with new technologies, and am excited about the opportunity to contribute my knowledge and expertise to any project.
 
