@@ -11,4 +11,4 @@ Above all, I'm passionate about making a difference through my work, and am exci
 
 
 - 🌱 I’m currently learning java
-- 📫 How to reach me olusolaifeoluwa12345@gmail.com
+- 📫 How to reach me simi.enquiries@gmail.com
