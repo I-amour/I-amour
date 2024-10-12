@@ -5,7 +5,7 @@ As a 18-year-old with a passion for programming websites and developing producti
 
 With experience developing apps for both Apple and Android, I have a deep understanding of the unique challenges and opportunities presented by different platforms. I'm always eager to learn and experiment with new technologies, and am excited about the opportunity to contribute my knowledge and expertise to any project.
 
-Currently attending St Davids College to pursue my A-levels, I'm dedicated to achieving academic excellence while also honing my technical skills. I'm a quick learner, a problem solver, and a creative thinker, always looking for innovative solutions to complex challenges.
+Currently attending Loughborough University to pursue my Bachelor's Degree, I'm dedicated to achieving academic excellence while also honing my technical skills. I'm a quick learner, a problem solver, and a creative thinker, always looking for innovative solutions to complex challenges.
 
 Above all, I'm passionate about making a difference through my work, and am excited about the opportunity to bring my skills and enthusiasm to a new role. Whether working independently or as part of a team, I'm committed to delivering top-quality results and helping organizations succeed in a rapidly changing digital landscape.
 
